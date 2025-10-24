@@ -51,6 +51,10 @@ To get this project up and running on your local machine, follow these steps:
 
 This project currently does not require any explicit environment variables to run locally. All configurations are handled within the application code.
 
+## 🔗 Live demo
+- Public preview - https://appetize.io/app/b_cfyhycli7zv43d647dtipkqo3q
+- Video demo - https://drive.google.com/file/d/1z2dr4ZAAJgQd1c_zEFnbpIb-EP46UarP/view?usp=sharing
+
 ## Usage
 
 Once the dependencies are installed, you can start the Expo development server:

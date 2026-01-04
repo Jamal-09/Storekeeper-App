@@ -31,13 +31,13 @@ To get this project up and running on your local machine, follow these steps:
 1.  ⬇️ **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/Jamal-09/hng_mobile_2
+    git clone https://github.com/Jamal-09/Storekeeper-App
     ```
 
 2.  📂 **Navigate to Project Directory**:
 
     ```bash
-    cd hng_mobile_2
+    cd Storekeeper-App
     ```
 
 3.  📦 **Install Dependencies**:

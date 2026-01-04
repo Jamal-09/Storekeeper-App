@@ -1,4 +1,4 @@
-# 🚀 HNG13 Mobile Stage 2 – Storekeeper App
+# 🚀 Storekeeper App
 
 ## Overview
 
@@ -85,6 +85,5 @@ Once the dependencies are installed, you can start the Expo development server:
 Connect with me:
 
 - 📧 Email: napg.adekunle@gmail.com
-- 🌈 Slack: Jamal-09
 
 ### Built with 💻 & ❤️ by Jamal
